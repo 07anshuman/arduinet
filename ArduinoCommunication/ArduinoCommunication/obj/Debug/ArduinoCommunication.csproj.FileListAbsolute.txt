@@ -1,0 +1,10 @@
+C:\Users\abdel\source\repos\ArduinoCommunication\ArduinoCommunication\bin\Debug\ArduinoCommunication.exe.config
+C:\Users\abdel\source\repos\ArduinoCommunication\ArduinoCommunication\bin\Debug\ArduinoCommunication.exe
+C:\Users\abdel\source\repos\ArduinoCommunication\ArduinoCommunication\bin\Debug\ArduinoCommunication.pdb
+C:\Users\abdel\source\repos\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.csprojAssemblyReference.cache
+C:\Users\abdel\source\repos\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.Form1.resources
+C:\Users\abdel\source\repos\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.Properties.Resources.resources
+C:\Users\abdel\source\repos\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.csproj.GenerateResource.cache
+C:\Users\abdel\source\repos\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.exe
+C:\Users\abdel\source\repos\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.pdb
